@@ -1,0 +1,19 @@
+.wrapper{
+    text-align: center;
+    background-color: #ccc;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+label{
+    display: block;
+    text-align: center;
+    font-size: 43px;
+    color: orangered;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+}
